@@ -1,2 +1,5 @@
-# JS-Calculator
-Calculadora simples usando HTML5, CSS3 e Javascript
+# Calculadora Simples
+Calculadora simples com funções básicas (soma, subtração, divisão, multiplicação).
+
+# Acesse o link e teste o projeto:
+
